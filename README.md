@@ -9,7 +9,7 @@ Hey dear, let me introduce you to Gabiel, the most clever bot-scraper of the Chu
 How to launch the scraper?
 
 ```shell
-$ python3 botscrap.py
+$ python3 main.py
 ```
 
 ## 2. How Gabiel (will) work(s)
@@ -24,7 +24,7 @@ From this list, Gabiel:
 - is able to check only these relevant urls when we ask for a quick update, or deep checks the whole website when we ask for it
 - is able to detect any change between the current and the last check up
 
-**OUTPUT** : Gabiel returns for each parish the following information:
+**OUTPUT** : Gabiel (should) returns for each parish the following information:
 
 ```json
 {
