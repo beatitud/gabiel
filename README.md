@@ -1,13 +1,17 @@
 # Gabiel - A great mass hours bot-scraper
 
-__**Author**__ : Antoine ROSE 
-
-Hey dear, let me introduce you to Gabiel, the most clever bot-scraper of the Church.
+Gabiel tends to be a very clever bot-scraper, browsing parish sites and collecting all detected events.
 
 ## 1. Get started
 
 How to launch the scraper?
 
+First install requirements in a virtual env:
+```shell
+$ pip3 install -r requirements.pip
+```
+
+Then, run:
 ```shell
 $ python3 main.py
 ```
